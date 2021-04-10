@@ -16,7 +16,7 @@ Step 2 : 
 
 Add this in your app level gradle dependencies file :
 
-    implementation 'com.github.kodlitecom:AdmobAdvancedNativeRecycler:1.0.0'
+    implementation 'com.github.kodlitecom:AdmobAdvancedNativeRecycler:1.0.1'
 
 Step 3 :
 Build the native Ad adapter from your current RecyclerView adapter :
